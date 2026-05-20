@@ -1,0 +1,20 @@
+{
+  "block.create_beamline.smart_display_link": "Умный дисплейный линк",
+  "itemGroup.create_beamline": "Create: Beamline",
+  "create_beamline.screen.smart_display_link.title": "Дисплейный линк",
+  "create_beamline.screen.smart_display_link.name_tooltip.title": "Название для этого дисплейного линка",
+  "create_beamline.screen.smart_display_link.name_tooltip.display": "Имя, отображаемое при выборе умного дисплейного линка",
+  "create_beamline.screen.smart_display_link_selection.title": "Выберите дисплейный линк",
+  "create_beamline.screen.smart_display_link_selection.no_links": "Нет связанных целей",
+
+  "create_beamline.smart_display_link.clear": "Выбор позиции очищен",
+  "create_beamline.smart_display_link.set": "Целевая позиция выбрана",
+  "create_beamline.smart_display_link.invalid": "Линк не имеет действительной цели, попробуйте разместить его заново",
+  "create_beamline.smart_display_link.dimension_mismatch": "Целевая позиция находится в другом измерении",
+  "create_beamline.smart_display_link.already_selected": "Эта цель уже выбрана",
+  "create_beamline.smart_display_link.too_far": "Целевая позиция слишком далеко отсюда",
+  "create_beamline.smart_display_link.success": "Успешно привязано к целевой позиции",
+  "create_beamline.smart_display_link.added_sources": "Успешно добавлено %s новых целей",
+  "create_beamline.smart_display_link.no_new_sources": "Все выбранные цели уже связаны",
+  "create_beamline.smart_display_link.no_selections": "Не выбрано ничего для добавления в качестве целей"
+}

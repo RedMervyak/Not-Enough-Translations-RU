@@ -1,0 +1,12 @@
+{
+  "block.vista.wave_gate": "Волновой шлюз",
+  "gui.vista.wave_gate.edit": "Редактировать цель волнового шлюза",
+  "gui.vista.welcome.title": "Добро пожаловать в мод Vista",
+  "gui.vista.welcome.message": "Некоторые функции Vista требуют установки видеобиблиотеки FFmpeg.\nВыберите, как вы хотите её получить.\n\nЗагрузка произойдёт один раз, во время игры. Это может занять несколько минут.\n\nЕсли отказаться от установки, функция %s будет отключена.\n",
+  "gui.vista.welcome.disable": "Не устанавливать",
+  "gui.vista.welcome.install_defaults": "Установить по умолчанию",
+  "gui.vista.welcome.install_custom": "Установить вручную",
+  "gui.vista.welcome.custom_hint": "URL-адрес бинарных файлов FFmpeg:",
+  "gui.vista.welcome.download": "Загрузить",
+  "gui.vista.refresh": "Обновить"
+}
