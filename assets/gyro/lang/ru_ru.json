@@ -1,9 +1,0 @@
-{
-  "itemGroup.gyro": "Гироскоп",
-  "block.gyro.gyroscope": "Гироскоп",
-  "tooltip.gyro.gyroscope.header": "Гироскоп:",
-  "tooltip.gyro.gyroscope.speed": "Скорость",
-  "tooltip.gyro.gyroscope.speed_dots": "..... ",
-  "tooltip.gyro.gyroscope.output": "Выход",
-  "tooltip.gyro.gyroscope.output_dots": ".... "
-}
